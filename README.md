@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , vueJS and angular**
 
-- 📫 How to reach me **shoummochoudhury@yahoo.com**
+- 📫 How to reach me **shoumyacho@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
