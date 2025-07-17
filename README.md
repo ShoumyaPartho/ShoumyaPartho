@@ -33,5 +33,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shoumyapartho&show_icons=true&locale=en&layout=compact" alt="shoumyapartho" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoumyapartho&show_icons=true&locale=en" alt="shoumyapartho" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoumyapartho&" alt="shoumyapartho" /></p>
